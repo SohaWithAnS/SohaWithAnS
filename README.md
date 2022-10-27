@@ -5,6 +5,7 @@ Hi, I’m Soha 🌸
 - 🌱 I'm currently listening to **Bad Feminist** by **Roxane Gay**.
 - 💞️ I’m looking to collaborate on projects involving using tech for social good, HealthTech, Art + Tech, FinTech. 
      I'm open to other intersections with tech as well :)  
+- 🌇 I sometimes [write](https://medium.com/@sohap).
 - 📫 Please reach me at: parasnissoha@gmail.com or send me a connection request on [Linkedin](https://www.linkedin.com/in/soha-parasnis). 
 
 <!---
