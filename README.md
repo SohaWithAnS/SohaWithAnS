@@ -1,6 +1,6 @@
 Hi, I’m Soha 🌸
 
-- 😊 I’m a CS graduate student.
+- 😊 I’m a CS graduate student looking for full-time SWE/SDE entry-level opportunities starting May 2023. 
 - 👩🏽‍💻 I'm currently learning how to use Python with Selenium for a fun automation hobby-project :]  
 - 🌱 I'm currently listening to **Bad Feminist** by **Roxane Gay**.
 - 💞️ I’m looking to collaborate on projects involving using tech for social good, HealthTech, Art + Tech, FinTech. 
